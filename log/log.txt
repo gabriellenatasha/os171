@@ -13,5 +13,24 @@ w01-170213-13.30-PS-About: Tutorial Lab
 w01-170213-14.00-PS-About: Tutorial Lab
 w01-170213-14.30-PS-About: Tutorial Lab
 w01-170213-15.00-PS-About: Tutorial Lab
-
-
+w02-170914-13.00-LR_About: Scripting
+w02-170914-13.30-LR-About: Scripting
+w02-170914-14.00-LR-About: Scripting
+w02-170214-14.30-LR-About: Scripting
+w03-170219-13.00-PS-About: Lab02 - Introduction to C
+w03-170219-13.30-PS-About: Lab02 - Intrduction to C
+w03-170219-14.00-PS-About: Lab02 - Introduction to C
+w03-170219-14.30-PS-About: Lab02 - Introduction to C
+w03-170219-15.00-PS-About: lab02 - Introduction to C
+w03-170219-15.30-PS-About: Lab02 - Introduction to C
+w03-170221-13.00-LR-About: Protection
+w03-170221-13.30-LR-About: Protection
+w03-170221-14.00-LR-About: Protection
+w03-170221-14.30-LR-About: Protection
+w03-170224-13.00-LR-About: introduction C
+w03-170224-13.30-LR-About: introduction C
+w03-170224-14.00-LR-About: introduction C
+w03-170224-14.30-LR-About: introdustion C
+w04-170226-11.00-PS-About lab week03
+w04-170226-11.30-PS-About lab week03
+w04-170226.12.00-PS-About lab week03
