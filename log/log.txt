@@ -34,3 +34,45 @@ w03-170224-14.30-LR-About: introdustion C
 w04-170226-11.00-PS-About lab week03
 w04-170226-11.30-PS-About lab week03
 w04-170226.12.00-PS-About lab week03
+w04-170228-13.00-LR-About: Booting Process
+w04-170228-13.30-LR-About: Booting Process
+w04-170228-14.00-LR-About: Booting Process
+w04-170228-14.30-LR-About: Booting Process
+w04-170302-13.00-LR-About: BIOS EUFI
+w04-170302-13.30-LR-About: BIOS EUFI
+w04-170302-14.00-LR-About: BIOS EUFI
+w04-170302-14.30-LR-About: BIOS EUFI
+w05-170305-11.00-PS-About lab week04
+w05-170305-11.30-PS-About lab week04
+w05-170305.12.00-PS-About lab week04
+w05-170311-13.00-LR-About: Pointer
+w05-170311-13.30-LR-About: Pointer
+w05-170311-14.00-LR-About: Pointer
+w05-170311-14.30-LR-About: Pointer
+w05-170313-13.00-LR-About: Global and Local Var
+w05-170313-13.30-LR-About: Global and Local Var
+w05-170313-14.00-LR-About: Global and Local Var
+w05-170313-14.30-LR-About: Global and Local Var
+w06-170316-11.00-PS-About lab week05
+w06-170316-11.30-PS-About lab week05
+w06-170316.12.00-PS-About lab week05
+w06-170318-13.00-LR-About: Memory
+w06-170318-13.30-LR-About: Memory
+w06-170318-14.00-LR-About: Memory
+w06-170318-14.30-LR-About: Memory
+w06-170320-13.00-LR-About: UTS Prepation
+w06-170320-13.30-LR-About: UTS Prepation
+w06-170320-14.00-LR-About: UTS Prepation
+w06-170320-14.30-LR-About: UTS Prepation
+w07-170407-13.00-LR-About: PID, PPID, fork
+w07-170407-13.30-LR-About: PID, PPID, fork
+w07-170407-14.00-LR-About: PID, PPID, fork
+w07-170407-14.30-LR-About: PID, PPID, fork
+w08-170411-13.00-LR-About: -
+w08-170413-13.00-LR-About: Synchronization
+w08-170413-13.30-LR-About: Synchronization
+w08-170413-14.00-LR-About: Synchronization
+w08-170413-14.30-LR-About: Synchronization
+w08-170415-11.00-PS-About lab week06
+w08-170415-11.30-PS-About lab week06
+w08-170415.12.00-PS-About lab week06
