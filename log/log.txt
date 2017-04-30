@@ -76,3 +76,17 @@ w08-170413-14.30-LR-About: Synchronization
 w08-170415-11.00-PS-About lab week06
 w08-170415-11.30-PS-About lab week06
 w08-170415.12.00-PS-About lab week06
+w09-170418-13-LR-About: Deadlock and Starvation From: Mr. Rahmat as lecturer
+w09-170418-13.30-PS-About: Latihan demo sambil memahami proses berjalannya program From: Mr. Rahmat as lecturer
+w09-170418-14-LR-About: Latihan soal VAUL Synchronization week07 From: Mr. Rahmat as lecturer
+w09-170420-12.30-PS-About: Do task lab week07
+w09-170420-13-LR-About: IO burst, CPU burst From: Lecturer, Mr. Rahmat Samik Ibrahim
+w09-170420-13.30-LR-About: Burst algorithm (FCFS, SJF, RR) From: Lecturer, Mr. Rahmat Samik Ibrahim
+w09-170420-14.30-LR-About: MultiCore, MultiProcessor  From: Lecturer, Mr. Rahmat Samik Ibrahim
+w10-170425-13.00-PS-About: Latihan soal Status Process
+w10-170425-13.30-PS-About: Latihan soal Status Process
+w10-170425-14.00-PS-About: Latihan soal Status Process
+w10-170425-14.30-PS-About: Latihan soal Status Process
+w10-170426-17.00-PS-About lab week08
+w10-170426-17.30-PS-About lab week08
+w10-170426-18.00-PS-About lab week08
